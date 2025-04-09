@@ -11,7 +11,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <a class="navbar-brand" href="/dashboard">
-            <img src="/storage/images/logo.png" alt="Logo" height="30" width="100" class="d-inline-block align-text-top">
+            <img src="/logo.png" alt="Logo" height="30" width="100" class="d-inline-block align-text-top">
             Convey
         </a>
         <div class="collapse navbar-collapse" id="navbarNav">
